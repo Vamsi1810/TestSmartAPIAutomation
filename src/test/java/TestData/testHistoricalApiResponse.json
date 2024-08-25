@@ -1,0 +1,9 @@
+[
+  {
+    "exchange": "NSE",
+    "symboltoken": "3045",
+    "interval": "ONE_HOUR",
+    "fromdate": "2023-09-06 11:15",
+    "todate": "2023-09-06 12:00"
+  }
+]

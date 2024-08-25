@@ -1,0 +1,19 @@
+[
+  {
+    "status": [
+      "NEW",
+      "ACTIVE"
+    ],
+    "page": 1,
+    "count": 10
+  },
+  {
+    "status": [
+      "CANCELLED",
+      "SENTTOEXCHANGE",
+      "FORALL"
+    ],
+    "page": 1,
+    "count": 10
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+  "exchange": "NSE",
+  "symboltoken": "2885",
+  "oldproducttype": "DELIVERY",
+  "newproducttype": "INTRADAY",
+  "tradingsymbol": "RELIANCE-EQ",
+  "symbolname": "RELIANCE",
+  "instrumenttype": "",
+  "priceden": "1",
+  "pricenum": "1",
+  "genden": "1",
+  "gennum": "1",
+  "precision": "2",
+  "multiplier": "-1",
+  "boardlotsize": "1",
+  "buyqty": "1",
+  "sellqty": "0",
+  "buyamount": "2235.80",
+  "sellamount": "0",
+  "transactiontype": "BUY",
+  "quantity": 1,
+  "type": "DAY"
+  }
+]

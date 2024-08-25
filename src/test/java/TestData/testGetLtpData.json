@@ -1,0 +1,18 @@
+[
+  {
+    "exchange": "NSE",
+    "tradingSymbol": "SBIN-EQ"
+  },
+  {
+    "exchange": "BSE",
+    "tradingSymbol": "SBIN"
+  },
+  {
+    "exchange": "BSE",
+    "tradingSymbol": "TCS"
+  },
+  {
+    "exchange": "NSE",
+    "tradingSymbol": "TCS-EQ"
+  }
+]

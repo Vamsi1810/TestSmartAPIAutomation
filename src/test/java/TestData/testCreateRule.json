@@ -1,0 +1,12 @@
+[
+  {
+    "tradingsymbol": "SBIN-EQ",
+    "exchange": "NSE",
+    "transactiontype": "BUY",
+    "producttype": "DELIVERY",
+    "price": "1950",
+    "qty": "1",
+    "triggerprice": "1948",
+    "timeperiod": "20"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "datatype":"Long Unwinding",
+    "expirytype":"NEAR"
+  },
+  {
+    "datatype":"Long Unwinding",
+    "expirytype":"NEXT"
+  },
+  {
+    "datatype":"Long Unwinding",
+    "expirytype":"FAR"
+  },
+  {
+    "datatype":"Short Covering",
+    "expirytype":"NEAR"
+  },
+  {
+    "datatype":"Short Covering",
+    "expirytype":"NEXT"
+  },
+  {
+    "datatype":"Short Covering",
+    "expirytype":"FAR"
+  },
+  {
+    "datatype":"Short Built Up",
+    "expirytype":"NEAR"
+  },
+  {
+    "datatype":"Short Built Up",
+    "expirytype":"NEXT"
+  },
+  {
+    "datatype":"Short Built Up",
+    "expirytype":"FAR"
+  },
+  {
+    "datatype":"Long Built Up",
+    "expirytype":"NEAR"
+  },
+  {
+    "datatype":"Long Built Up",
+    "expirytype":"NEXT"
+  },
+  {
+    "datatype":"Long Built Up",
+    "expirytype":"FAR"
+  }
+]
